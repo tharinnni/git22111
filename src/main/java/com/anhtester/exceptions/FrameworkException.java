@@ -11,6 +11,14 @@ package com.anhtester.exceptions;
  */
 @SuppressWarnings("serial")
 public class FrameworkException extends RuntimeException {
-
+	@SuppressWarnings("serial")
+	public class FrameworkException extends RuntimeException {@SuppressWarnings("serial")
+	public class FrameworkException extends RuntimeException {@SuppressWarnings("serial")
+	public class FrameworkException extends RuntimeException {@SuppressWarnings("serial")
+	public class FrameworkException extends RuntimeException {@SuppressWarnings("serial")
+	public class FrameworkException extends RuntimeException {@SuppressWarnings("serial")
+	public class FrameworkException extends RuntimeException {@SuppressWarnings("serial")
+	public class FrameworkException extends RuntimeException {@SuppressWarnings("serial")
+	public class FrameworkException extends RuntimeException {
 
 }
