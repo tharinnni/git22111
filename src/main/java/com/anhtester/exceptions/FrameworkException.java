@@ -1,8 +1,5 @@
-/*
- * Copyright (c) 2022.
- * Automation Framework Selenium - Anh Tester
- */
 
+<<<<<<< HEAD
 package com.anhtester.exceptions;
 
 /**
@@ -22,3 +19,5 @@ public class FrameworkException extends RuntimeException {
 	public class FrameworkException extends RuntimeException {
 
 }
+=======
+>>>>>>> e051de8fbcb3d54e0ef8a5a743218442f241a54e
